@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Users", "Users\Users.csproj", "{B0619DAA-CBFC-4D4A-BD9F-FD3EBEC5792B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersForm", "UsersForm\UsersForm.csproj", "{8AD603B3-23D2-4C98-B403-3A91C4903DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{E26071AA-993C-422D-9D3F-B884D44FC62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0619DAA-CBFC-4D4A-BD9F-FD3EBEC5792B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0619DAA-CBFC-4D4A-BD9F-FD3EBEC5792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0619DAA-CBFC-4D4A-BD9F-FD3EBEC5792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0619DAA-CBFC-4D4A-BD9F-FD3EBEC5792B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD603B3-23D2-4C98-B403-3A91C4903DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD603B3-23D2-4C98-B403-3A91C4903DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD603B3-23D2-4C98-B403-3A91C4903DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD603B3-23D2-4C98-B403-3A91C4903DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26071AA-993C-422D-9D3F-B884D44FC62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26071AA-993C-422D-9D3F-B884D44FC62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26071AA-993C-422D-9D3F-B884D44FC62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26071AA-993C-422D-9D3F-B884D44FC62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BBEFE2-69F8-4D5C-9D17-E21593C62457}
+	EndGlobalSection
+EndGlobal

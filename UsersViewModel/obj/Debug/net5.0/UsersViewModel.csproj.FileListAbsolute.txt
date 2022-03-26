@@ -1,0 +1,12 @@
+C:\Users\karen\Documents\Users\UsersViewModel\bin\Debug\net5.0\UsersViewModel.deps.json
+C:\Users\karen\Documents\Users\UsersViewModel\bin\Debug\net5.0\UsersViewModel.dll
+C:\Users\karen\Documents\Users\UsersViewModel\bin\Debug\net5.0\ref\UsersViewModel.dll
+C:\Users\karen\Documents\Users\UsersViewModel\bin\Debug\net5.0\UsersViewModel.pdb
+C:\Users\karen\Documents\Users\UsersViewModel\obj\Debug\net5.0\UsersViewModel.csprojAssemblyReference.cache
+C:\Users\karen\Documents\Users\UsersViewModel\obj\Debug\net5.0\UsersViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\Documents\Users\UsersViewModel\obj\Debug\net5.0\UsersViewModel.AssemblyInfoInputs.cache
+C:\Users\karen\Documents\Users\UsersViewModel\obj\Debug\net5.0\UsersViewModel.AssemblyInfo.cs
+C:\Users\karen\Documents\Users\UsersViewModel\obj\Debug\net5.0\UsersViewModel.csproj.CoreCompileInputs.cache
+C:\Users\karen\Documents\Users\UsersViewModel\obj\Debug\net5.0\UsersViewModel.dll
+C:\Users\karen\Documents\Users\UsersViewModel\obj\Debug\net5.0\ref\UsersViewModel.dll
+C:\Users\karen\Documents\Users\UsersViewModel\obj\Debug\net5.0\UsersViewModel.pdb
